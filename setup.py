@@ -7,7 +7,7 @@ PROJECT_NAME="oneNeuron_pypi"
 USER_NAME="vkg0312"
 setuptools.setup(
     name=f"{PROJECT_NAME}-{USER_NAME}",
-    version="0.0.1",
+    version="0.0.2",
     author="VARUN",
     author_email="vkg0312@gmail.com",
     description="Its a implementation of perceptron",
